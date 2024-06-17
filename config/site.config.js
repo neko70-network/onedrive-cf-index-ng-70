@@ -54,7 +54,7 @@ module.exports = {
       },
       {
       name: 'Private Drive',
-      link: 'https://private.neko70.net',
+      link: 'https://priv.neko70.net',
       },
   ],
 
